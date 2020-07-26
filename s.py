@@ -1,3 +1,4 @@
+# repl.it is awesome
 import socket
 import threading
 import teleApi as tg
