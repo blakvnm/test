@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Python package which allows creation of simple servers and clients for communication with sockets"
+name = "sockets"
+optional = false
+python-versions = "*"
+version = "1.0.0"
+
+[metadata]
+content-hash = "43ee52e64734fa98b9468f6c5443b8803a28e7f49e5f8bd66d239b21b8ac4f5a"
+python-versions = "^3.8"
+
+[metadata.files]
+sockets = [
+    {file = "sockets-1.0.0-py3-none-any.whl", hash = "sha256:cdb78b0f37b78adadedcc55cdd73c61aacbeb0f00c4c551f1b60f1463457c90b"},
+    {file = "sockets-1.0.0.tar.gz", hash = "sha256:0d5691402d3da39c9ef6330647d847b0bed93a4ce8b23bf1a18133e2dcbb5c8d"},
+]
